@@ -1,0 +1,16 @@
+[
+    [
+
+        "employ/queryStuByInfo",
+        {"pageSize":"10","pageIndex":"1","stuName":"范闲","stuNo":"",
+        "stuClass":"WNCDC02","regionId":"1","result":""},
+        "pass"
+
+
+
+    ]
+
+
+
+
+]

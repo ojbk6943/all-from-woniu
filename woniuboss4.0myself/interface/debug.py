@@ -1,0 +1,5 @@
+print("aaaaa")
+rint("bbbbb")
+print("cccccc")
+print("ddddd")
+print("fffff")

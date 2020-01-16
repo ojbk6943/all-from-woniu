@@ -1,0 +1,5 @@
+{
+    "login_data":{"userName":"WNCD000","userPass":"woniu123","checkcode":"0000","remember":"Y"},
+    "login_url":"http://192.168.2.109:8080/WoniuBoss4.0/login/userLogin"
+
+}

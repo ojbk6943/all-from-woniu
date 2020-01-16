@@ -1,0 +1,21 @@
+[
+
+    [
+      "skills/querySkillRe?stuId=1",
+      {"pageSize":"10","pageIndex":"1","regionId":"","isPass":""},
+      "employ/queryMockRe?stuId=1",
+
+      "employ/insertMrecord?stuId=1&salary=80000&comm=&remark=",
+      "employ/queryStuByInfo",
+      {"pageSize":"10","pageIndex":"1","stuName":"","stuNo":"",
+      "stuClass":"","regionId":"","result":""},
+      "pass"
+
+
+
+
+    ]
+
+
+
+]

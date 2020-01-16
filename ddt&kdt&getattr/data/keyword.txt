@@ -1,0 +1,6 @@
+Open Browser,http://jacky-pc/agileone
+Input Text,id=username,admin
+Input Password,id=password,admin
+Click Button,id=login
+Wait,2
+Close Browser
